@@ -6,7 +6,7 @@ description: cryoEM group focusing on host pathogen interactions
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: "https://ni-lab.github.io/ni-lab/"
+baseurl: "https://ni-lab.github.io/"
 
 # site social media and other links
 links:
